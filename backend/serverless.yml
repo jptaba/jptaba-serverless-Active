@@ -1,5 +1,5 @@
 # [DONE]: Change the name of the org
-# org: jptaba
+org: jptaba
 app: serverless-recipe-app
 service: serverless-recipe-app
 
